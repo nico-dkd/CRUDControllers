@@ -1,4 +1,4 @@
-Vielleicht die DB löschen?
+Probleme mit der DB -> Vielleicht die DB löschen, wird beim neustart des Servers ansonsten neu erstellt.
 
 Basic Token hier erstellen: 
 https://www.blitter.se/utils/basic-authentication-header-generator/
